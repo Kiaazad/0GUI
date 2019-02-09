@@ -16,8 +16,14 @@ Screens:
   Battle
   
 Tools
+  Mouse Position √
   Font character view
-  Color picker
+  Color picker √
+    Color swatch √
+    Color Theory
+    Save swatch to file
+    Load swatch from file
+    Auto swatch generate
   Frame picker
   Local time
   Screen Runner
