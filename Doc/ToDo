@@ -15,7 +15,8 @@ Screens:
   Inventory / Money
   Battle
   
-Tools
+Dev Tools
+  Dev tools loader √
   Mouse Position √
   Font character view
   Color picker √
@@ -28,6 +29,7 @@ Tools
   Local time
   Screen Runner
   Trace
+  0GUI color setup
   
 Other:
   hbox vbox switch
