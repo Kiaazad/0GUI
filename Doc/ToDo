@@ -14,7 +14,15 @@ Screens:
   ToolTip
   Inventory / Money
   Battle
+
+Mobile interface
+  Say
+  Save
+  Conf
+  Main Menu
+  Gallery
   
+
 Dev Tools
   Dev tools loader √
   Mouse Position √
