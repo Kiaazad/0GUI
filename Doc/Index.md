@@ -1,9 +1,9 @@
-Basics
+## Basics
   Adding 0GUI to a project
   Changing the color Theme
   Using Frames for the theme
 
-Adds
+## Adds
   History
   Gallery
   Sound Room
@@ -14,16 +14,14 @@ Adds
   Replay
   Abbreviated Actions
   Basic Transforms
-  ExtraInfo
-    Deja
-    OSK
+  dev tools
     
   
-Extra Functions
+## Extra Functions
   clip_put
   file_list
   image_fit
     get_image_size
     
-MiniGames
+## MiniGames
   
