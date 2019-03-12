@@ -1,4 +1,4 @@
-0GUI is a simplified version of Ren'Py interface for GUI designers. The major diferences between 0GUI and the default Ren'py GUI generated with new games are:
+0GUI is a simplified version of Ren'Py interface for GUI designers. The major differences between 0GUI and the default Ren'py GUI generated with new games are:
 
 - The screens are broken into files for faster access.
 - The interface is animated.
