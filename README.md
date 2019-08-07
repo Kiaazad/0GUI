@@ -16,9 +16,11 @@ Is a simplified version of Ren'Py interface for GUI designers. The major differe
 - Mobile variations are developed separately and fitted for touch. and you can swap two folders for different builds instead of including both interfaces in the build.
 - The look of interface can be changed by giving it a small image to use as frame
 
+
 **0GUIM**
 
 The mobile variation
+
 
 **0GUI adds**
 
@@ -26,6 +28,7 @@ Additional screens such as extras, gallery, sound room and the ones I removed fr
 
 here's an old video of how easy it is to modify the interface with 0GUI
 https://www.youtube.com/watch?v=mDIeE3-Y5WY
+
 
 **How to**
 
@@ -37,9 +40,11 @@ As an optional step, you can remove all images inside the GUI folder except the 
 here's a video showing me doing it, *gigle*
 https://www.youtube.com/watch?v=c7ot8OVQrpg
 
+
 **License**
 
 The majority of 0GUI and 0GUIM is modified code from default Ren'py interface, therefore, the license is the same as everything else in Ren'py: https://www.renpy.org/doc/html/license.html
+
 
 **Plugs**
 
