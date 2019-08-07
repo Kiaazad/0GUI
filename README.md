@@ -36,3 +36,11 @@ adding 0GUI to a project is easy:
 As an optional step, you can remove all images inside the GUI folder except the window icon
 here's a video showing me doing it, *gigle*
 https://www.youtube.com/watch?v=c7ot8OVQrpg
+
+**License**
+
+The majority of 0GUI and 0GUIM is modified code from default Ren'py interface, therefore, the license is the same as everything else in Ren'py: https://www.renpy.org/doc/html/license.html
+
+**Plugs**
+
+If anyone deserves to be supported is RenpyTom https://www.patreon.com/renpytom for all the effort he has put into Ren'py. Though, I wouldn't mind some of the attention either. You can find some interesting stuff on my patreon page too: https://www.patreon.com/KiaAzad mostly free stuff.
