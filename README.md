@@ -1,4 +1,5 @@
 **0GUI**
+
 Is a simplified version of Ren'Py interface for GUI designers. The major differences between 0GUI and the default Ren'py GUI generated with new games are:
 
 - All of the GUI related code and style are removed from screens, making it easy to change them directly without worrying about the errors.
@@ -16,15 +17,18 @@ Is a simplified version of Ren'Py interface for GUI designers. The major differe
 - The look of interface can be changed by giving it a small image to use as frame
 
 **0GUIM**
+
 The mobile variation
 
 **0GUI adds**
+
 Additional screens such as extras, gallery, sound room and the ones I removed from the default screens like history, notifications, replay and help (it's being revamped)
 
 here's an old video of how easy it is to modify the interface with 0GUI
 https://www.youtube.com/watch?v=mDIeE3-Y5WY
 
 **How to**
+
 adding 0GUI to a project is easy:
 - Remove screens.rpy and screens.rpyc
 - Copy 0GUI folder to your game folder and you're all set
