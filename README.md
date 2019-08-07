@@ -16,20 +16,30 @@ Is a simplified version of Ren'Py interface for GUI designers. The major differe
 - Mobile variations are developed separately and fitted for touch. and you can swap two folders for different builds instead of including both interfaces in the build.
 - The look of interface can be changed by giving it a small image to use as frame
 
+
+here's an old video of how easy it is to modify the interface with 0GUI
+https://www.youtube.com/watch?v=mDIeE3-Y5WY
+
 ---
 
 **0GUIM**
 
-The mobile variation
+The mobile variation of 0GUI
+https://github.com/Kiaazad/0GUIM
 
 ---
 
 **0GUI adds**
 
 Additional screens such as extras, gallery, sound room and the ones I removed from the default screens like history, notifications, replay and help (it's being revamped)
+https://github.com/Kiaazad/0GUI-Adds
 
-here's an old video of how easy it is to modify the interface with 0GUI
-https://www.youtube.com/watch?v=mDIeE3-Y5WY
+---
+
+**0GUI dev tools**
+
+A set of tools to assist you in the game development process.
+https://github.com/Kiaazad/0GUI-dev-tools
 
 ---
 
