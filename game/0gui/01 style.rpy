@@ -35,13 +35,13 @@ init python:
                 self.f_slc_idl = self.frames.opacity(self.f_alp[1]).rotate_hue(self.f_accent)
                 self.f_slc_hov = self.frames.opacity(self.f_alp[2]).rotate_hue(self.f_accent)
             else:
-                self.f_ins = self.frames
-                self.f_idl = self.frames
-                self.f_hov = self.frames
+                self.f_ins = Frame(im.MatrixColor(self.frames,im.matrix.desaturate()), self.boarders[0], self.boarders[1])
+                self.f_idl = Frame(self.frames, self.boarders[0], self.boarders[1])
+                self.f_hov = Frame(im.MatrixColor(self.frames,im.matrix.hue(120)), self.boarders[0], self.boarders[1])
 
-                self.f_slc_ins = self.frames
-                self.f_slc_idl = self.frames
-                self.f_slc_hov = self.frames
+                self.f_slc_ins = Frame(im.MatrixColor(self.frames,im.matrix.desaturate()), self.boarders[0], self.boarders[1])
+                self.f_slc_idl = Frame(im.MatrixColor(self.frames,im.matrix.hue(240)), self.boarders[0], self.boarders[1])
+                self.f_slc_hov = Frame(im.MatrixColor(self.frames,im.matrix.hue(240)), self.boarders[0], self.boarders[1])
             
             ### Bars
             if type(self.frames) == Color:
@@ -50,16 +50,16 @@ init python:
                 self.r_bar_hov = self.frames.opacity(self.f_alp[1]).rotate_hue(self.f_accent)
                 self.l_bar_hov = self.frames.opacity(self.f_alp[2]).rotate_hue(self.f_accent)
             else:
-                self.r_bar = self.frames
-                self.l_bar = self.frames
-                self.r_bar_hov = self.frames
-                self.l_bar_hov = self.frames
+                self.r_bar = Frame(im.MatrixColor(self.frames,im.matrix.desaturate()), self.boarders[0], self.boarders[1])
+                self.l_bar = Frame(self.frames, self.boarders[0], self.boarders[1])
+                self.r_bar_hov = Frame(im.MatrixColor(self.frames,im.matrix.desaturate()), self.boarders[0], self.boarders[1])
+                self.l_bar_hov = Frame(im.MatrixColor(self.frames,im.matrix.hue(120)), self.boarders[0], self.boarders[1])
 
 ### Change these ###############################################################
 
 define thm = gui0(
     "#fff", # text color
-    "#455", # frame color or image
+    "0GUI/frame/001.png", # frame color or image
     "#fd0", # accent color
     .33, # frame accent color offset
     (16, 16), # frame boarders size
