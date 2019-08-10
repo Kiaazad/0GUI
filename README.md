@@ -3,13 +3,13 @@
 Is a simplified version of Ren'Py interface for GUI designers. The major differences between 0GUI and the default Ren'py GUI generated with new games are:
 
 - All of the GUI related code and style are removed from screens, making it easy to change them directly without worrying about the errors.
-- All comments are removed, pros don't need those (will add back renpy licencing at some point)
+- All comments are removed, pros don't need those (will add back renpy licensing  at some point)
 - The screens are broken into files for faster access and less scrolling.
-- The interface is animated with a single transform, making it easy to get a new look out of the interdface animation with few changes.
+- The interface is animated with a single transform, making it easy to get a new look out of the interface animation with few changes.
 - A set of click SFX is added to the buttons. 
 - The style of screen elements can be changed by modifying few lines of code. 
 - It is independent of any images, you can remove everything in GUI folder except the window icon.
-- You can remove or change part of the interface by simply removing or swaping their files, no coding required.
+- You can remove or change part of the interface by simply removing or swapping their files, no coding required.
 - Additional functions are added to the interface
 - It is being improved constantly
 - it looks good out of the box
