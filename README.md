@@ -59,6 +59,7 @@ https://www.youtube.com/watch?v=c7ot8OVQrpg
 
 The majority of 0GUI and 0GUIM is modified code from default Ren'py interface, therefore, the license is the same as everything else in Ren'py: https://www.renpy.org/doc/html/license.html
 
+unless you're adam_9847 from reddit, you can't benefit from any work of mine and when you use my work for free you need to add my name in the middle of every screen with largest font size that fits the whole screen. Don't go around my patreon sniffing the good stuff either.
 ---
 
 **Plugs**
